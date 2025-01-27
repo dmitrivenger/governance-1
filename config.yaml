@@ -24,6 +24,7 @@ teams:
       - sorabot
     members:
       - "0x009922"
+      - VladislavPopovSR
       - SamHSmith
       - DCNick3
       - Mingela
@@ -83,6 +84,7 @@ teams:
       - Mingela
       - dmitrivenger
     members:
+      - VladislavPopovSR
       - alexstroke1
       - BAStos525
       - Stukalov-A-M
